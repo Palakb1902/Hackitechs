@@ -5,6 +5,7 @@
 
 MaternaSage is a transformative digital platform designed to revolutionize maternal healthcare accessibility, particularly for women in rural and underserved areas. Our mission is to provide a comprehensive one-stop solution that empowers women with information, support, and expert guidance throughout their maternal journey.
 
+
 ## Features
 
 - **Virtual Consultations:** Schedule live video consultations with qualified doctors and specialists.
@@ -40,6 +41,12 @@ We're committed to expanding MaternaSage's impact:
 - Innovative technology integration
 - Global outreach
 - Data-driven improvements
+  
+## Link to Additional Resources
+
+For project related documentation and assets, please visit our [Google Drive Folder](https://drive.google.com/drive/folders/1E8JQ03oegblr_3oz0L9DiPR6iqWEzD4k?usp=sharing).
+
+...
 
 ## Contribution
 
